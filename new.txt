@@ -1,0 +1,6 @@
+Weocome to fusion institute
+here are the names of aws service
+ec2
+vpc
+ebs
+s3
